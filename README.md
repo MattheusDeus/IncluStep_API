@@ -22,3 +22,7 @@ Melhoria na experiência de reabilitação através de treinos adaptados e acomp
 ### Para Profissionais de Saúde
 Enriquecimento do trabalho com ferramentas avançadas, facilitando um caminho mais eficiente e personalizado para a recuperação dos pacientes.
 
+## Arquitetura na Nuvem
+<img width="535" alt="image" src="https://github.com/MattheusDeus/IncluStep_API/assets/101228527/2501c32a-cfa3-4c9b-9cb5-bcee4cc82c2c">
+
+
